@@ -520,7 +520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7009a7f8bf8183847bc109af73614c50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentLevel: 1
+  currentLevel: 5
   levelTimer: {fileID: 0}
   loadingScene:
     m_Handle: 0
